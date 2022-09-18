@@ -10,5 +10,5 @@ t= ln(r)/-0.000121
 You just enter the percentage of Carbon-14 that the bone/plant contains and press the AGE button.
 
 ### Wiki
-Check the app features here on the wiki: 
+Check the features of the app here on the wiki: 
 https://github.com/TurquoiseApps/Boni_Calculator/wiki/About-Boni-Calculator
