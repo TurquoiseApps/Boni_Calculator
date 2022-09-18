@@ -8,3 +8,7 @@ Boni Calc helps Biology students calculate the age of a bone/plant using Radioca
 t= ln(r)/-0.000121
 
 You just enter the percentage of Carbon-14 that the bone/plant contains and press the AGE button.
+
+### Wiki
+Check the app features here on the wiki: 
+https://github.com/TurquoiseApps/Boni_Calculator/wiki/About-Boni-Calculator
